@@ -1,4 +1,5 @@
 # Trakt Lists 65+ rating
+All lists are self updated
 
 # Movies 
 
