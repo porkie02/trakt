@@ -1,6 +1,4 @@
-# Trakt
-Trakt lists Rating 65+
-
+# Trakt Lists 65+ rating
 
 # Movies 
 
