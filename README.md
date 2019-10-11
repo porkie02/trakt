@@ -70,3 +70,9 @@ https://trakt.tv/users/porkie16/lists/tv-drama-65-rating
 
 - Animation Kids only
 https://trakt.tv/users/porkie16/lists/tv-animation-kids-only-65-rating
+
+- Anime
+https://trakt.tv/users/porkie16/lists/tv-anime-65-rating
+
+- Superhero
+https://trakt.tv/users/porkie16/lists/tv-superhero-65-rating
