@@ -61,3 +61,6 @@ https://trakt.tv/users/porkie16/lists/sky-atlantic-tv-rating-65
 
 - Comdey
 https://trakt.tv/users/porkie16/lists/tv-comedy-65-rating
+
+- Sci-Fi
+https://trakt.tv/users/porkie16/lists/tv-sci-fi-65-rating
