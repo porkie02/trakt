@@ -64,3 +64,9 @@ https://trakt.tv/users/porkie16/lists/tv-comedy-65-rating
 
 - Sci-Fi
 https://trakt.tv/users/porkie16/lists/tv-sci-fi-65-rating
+
+- Drama
+https://trakt.tv/users/porkie16/lists/tv-drama-65-rating
+
+- Animation Kids only
+https://trakt.tv/users/porkie16/lists/tv-animation-kids-only-65-rating
