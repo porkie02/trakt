@@ -52,3 +52,6 @@ https://trakt.tv/users/porkie16/lists/tv-docu-65-rating
 
 - HBO Network
 https://trakt.tv/users/porkie16/lists/hbo-network-65
+
+- Discovery Network
+https://trakt.tv/users/porkie16/lists/discovery-network-65-rating
