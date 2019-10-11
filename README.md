@@ -79,3 +79,9 @@ https://trakt.tv/users/porkie16/lists/tv-superhero-65-rating
 
 - Crime
 https://trakt.tv/users/porkie16/lists/tv-crime-65-rating
+
+- Reality
+https://trakt.tv/users/porkie16/lists/tv-reality-65
+
+- Soaps
+https://trakt.tv/users/porkie16/lists/tv-soaps-65-rating
