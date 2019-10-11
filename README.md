@@ -49,3 +49,6 @@ https://trakt.tv/users/porkie16/lists/romance-movies-rating-65
 
 - Docu
 https://trakt.tv/users/porkie16/lists/tv-docu-65-rating
+
+- HBO Network
+https://trakt.tv/users/porkie16/lists/hbo-network-65
