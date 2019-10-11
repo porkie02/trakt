@@ -76,3 +76,6 @@ https://trakt.tv/users/porkie16/lists/tv-anime-65-rating
 
 - Superhero
 https://trakt.tv/users/porkie16/lists/tv-superhero-65-rating
+
+- Crime
+https://trakt.tv/users/porkie16/lists/tv-crime-65-rating
