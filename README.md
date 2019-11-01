@@ -51,6 +51,9 @@ https://trakt.tv/users/porkie16/lists/netflixs-movies-65-rating
 - BollyWood
 https://trakt.tv/users/porkie16/lists/bollywood-movies-65-rating
 
+- Fantasy
+https://trakt.tv/users/porkie16/lists/fantasy-movies-65-rating
+
 ## Tv Shows
 
 - Docu
