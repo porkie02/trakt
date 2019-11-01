@@ -46,7 +46,10 @@ https://trakt.tv/users/porkie16/lists/family-movie-65-rating-pg
 https://trakt.tv/users/porkie16/lists/romance-movies-rating-65
 
 - Netflixs
-https://trakt.tv/users/porkie16/lists/netflixs-movies-65-rating?sort=rank,asc
+https://trakt.tv/users/porkie16/lists/netflixs-movies-65-rating
+
+- BollyWood
+https://trakt.tv/users/porkie16/lists/bollywood-movies-65-rating
 
 ## Tv Shows
 
@@ -91,3 +94,6 @@ https://trakt.tv/users/porkie16/lists/tv-soaps-65-rating
 
 - Netflixs
 https://trakt.tv/users/porkie16/lists/netflixs-tv-shows-65-rating
+
+- BollyWood
+https://trakt.tv/users/porkie16/lists/bollywood-tv-65-rating
