@@ -103,3 +103,7 @@ https://trakt.tv/users/porkie16/lists/netflixs-tv-shows-65-rating
 
 - BollyWood
 https://trakt.tv/users/porkie16/lists/bollywood-tv-65-rating
+
+- Apple TV
+https://trakt.tv/users/porkie16/lists/apple-tv-shows-65-rating
+
