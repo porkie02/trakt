@@ -54,6 +54,9 @@ https://trakt.tv/users/porkie16/lists/bollywood-movies-65-rating
 - Fantasy
 https://trakt.tv/users/porkie16/lists/fantasy-movies-65-rating
 
+- Christmas
+https://trakt.tv/users/porkie16/lists/christmas-movies-rating-65
+
 ## Tv Shows
 
 - Docu
