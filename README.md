@@ -45,6 +45,9 @@ https://trakt.tv/users/porkie16/lists/family-movie-65-rating-pg
 - Romance
 https://trakt.tv/users/porkie16/lists/romance-movies-rating-65
 
+- Netflixs
+https://trakt.tv/users/porkie16/lists/netflixs-movies-65-rating?sort=rank,asc
+
 ## Tv Shows
 
 - Docu
@@ -85,3 +88,6 @@ https://trakt.tv/users/porkie16/lists/tv-reality-65
 
 - Soaps
 https://trakt.tv/users/porkie16/lists/tv-soaps-65-rating
+
+- Netflixs
+https://trakt.tv/users/porkie16/lists/netflixs-tv-shows-65-rating
