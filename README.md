@@ -57,6 +57,9 @@ https://trakt.tv/users/porkie16/lists/fantasy-movies-65-rating
 - Christmas
 https://trakt.tv/users/porkie16/lists/christmas-movies-rating-65
 
+- Disney
+https://trakt.tv/users/porkie16/lists/disney-movies
+
 ## Tv Shows
 
 - Docu
