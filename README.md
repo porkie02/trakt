@@ -110,3 +110,6 @@ https://trakt.tv/users/porkie16/lists/bollywood-tv-65-rating
 - Apple TV
 https://trakt.tv/users/porkie16/lists/apple-tv-shows-65-rating
 
+- Disney+
+https://trakt.tv/users/porkie16/lists/disney-tv-shows-65-rating?sort=rank,asc
+
