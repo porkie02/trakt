@@ -125,3 +125,6 @@ https://trakt.tv/users/porkie16/lists/amazon-tv-65-rating
 - Hulu
 https://trakt.tv/users/porkie16/lists/hulu-tv-rating-65
 
+- Amazon/Netflix/Hulu/Disney+ Combined 80+ rating
+https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-tv-show-combined-80-rating
+
