@@ -63,6 +63,9 @@ https://trakt.tv/users/porkie16/lists/disney-movies
 - Disney+
 https://trakt.tv/users/porkie16/lists/disney-movies-65-rating
 
+- All Movies 1985+ With Rating 80+
+https://trakt.tv/users/porkie16/lists/movies-1985-rating-80
+
 ## Tv Shows
 
 - Docu
