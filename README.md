@@ -131,3 +131,14 @@ https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show
 - Amazon/Netflix/Hulu/Disney+/AppleTv+ Combined 65+ rating
 https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show-combined-65-rating
 
+## Custom Python Plexlibrary Recipes
+
+I have added my current recipes I have made for Custom Python Plexlibrary Recipes which can be found here.
+
+https://github.com/adamgot/python-plexlibrary
+
+These recipes will out of once ran for Cloudbox users, for PTS/PG users you will need to edit the local path in each yml file that plex can see.
+
+For example Cloudbox uses /mnt/local/Media/Movies/Sci-Fi/
+
+For PTS/PG it will be have to be a local path that Plex can see which im not 100% on but maybe something like /mnt/Movies/Sci-Fi
