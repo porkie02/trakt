@@ -133,7 +133,7 @@ https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show
 
 ## Custom Python Plexlibrary Recipes
 
-I have added my current recipes I have made for Custom Python Plexlibrary Recipes which can be found here.
+I have added my current recipes I have made for Custom Python Plexlibrary Recipes for some of my lists.
 
 https://github.com/adamgot/python-plexlibrary
 
