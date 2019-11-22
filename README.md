@@ -142,3 +142,5 @@ These recipes will out of once ran for Cloudbox users, for PTS/PG users you will
 For example Cloudbox uses /mnt/local/Media/Movies/Sci-Fi/
 
 For PTS/PG it will be have to be a local path that Plex can see which im not 100% on but maybe something like /mnt/Movies/Sci-Fi
+
+Do one recipe at a time and when it pops up in plex edit it and remove from dashboard, disable thumbnails, disable cinema trailers and finally diable collections. When creating new libs with receipes it will trigger a scan but its quite quick and doesnt effect anything else being ading with PAS. 
