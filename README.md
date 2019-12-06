@@ -137,7 +137,7 @@ I have added my current recipes I have made for Custom Python Plexlibrary Recipe
 
 https://github.com/adamgot/python-plexlibrary
 
-These recipes will out of once ran for Cloudbox users, for PTS/PG users you will need to edit the local path in each yml file that plex can see.
+These recipes will run out of the box for Cloudbox users, for PTS/PG users you will need to edit the local path in each yml file that plex can see.
 
 For example Cloudbox uses /mnt/local/Media/Movies/Sci-Fi/
 
