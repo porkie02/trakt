@@ -1,5 +1,5 @@
 # Trakt Lists 65+ Rating
-All lists are self updated
+All lists are self updated and maintained by https://listrr.pro/ which was made by TheUltimateC0der https://github.com/TheUltimateC0der/Listrr
 
 ## Movies 
 
