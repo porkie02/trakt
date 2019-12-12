@@ -145,7 +145,8 @@ For PTS/PG it will be have to be a local path that Plex can see which im not 100
 
 Do one recipe at a time and when it pops up in plex edit the lib and remove from dashboard, disable thumbnails, disable cinema trailers and finally disable collections. When creating new libs with receipes it will trigger a scan but its quite quick and doesnt effect anything else being added with PAS. 
 
-To update your custom libs daily install a cronjob by using 
+To update your custom libs daily drop the plexlibrary.sh from the scripts folder in the repo into /opt/python-plexlibrary
+> chmod +x /opt/python-plexlibrary/plexlibrary.sh
 > crontab -e
 
 Then add a cron at the bottom of the file
