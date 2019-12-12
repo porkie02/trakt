@@ -148,5 +148,5 @@ Do one recipe at a time and when it pops up in plex edit the lib and remove from
 To update your custom libs daily install a cronjob by using 
 > crontab -e
 
-Then add a cron at teh bottom of the list if you have one with
+Then add a cron at the bottom of the file
 > @daily /opt/python-plexlibrary/plexlibrary.sh
