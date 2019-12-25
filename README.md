@@ -141,7 +141,7 @@ These recipes will run out of the box for Cloudbox users, for PTS/PG users you w
 
 For example Cloudbox uses /mnt/local/Media/Movies/Sci-Fi/
 
-For PTS/PG it will be have to be a local path that Plex can see which im not 100% on but maybe something like /mnt/unionfs/movies/recipe_title also PTS/PG users need to change the plex link in the main config from http://plex:32400/ to
+For PTS/PG it will be have to be a local path that Plex can see, something like /mnt/unionfs/movies/recipe_title also PTS/PG users need to change the plex link in the main config from http://plex:32400/ to
 http://localhost:32400/
 
 Do one recipe at a time and when it pops up in plex edit the lib and remove from dashboard, disable thumbnails, disable cinema trailers and finally disable collections. When creating new libs with receipes it will trigger a scan but its quite quick and doesnt effect anything else being added with PAS. 
