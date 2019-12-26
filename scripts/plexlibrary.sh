@@ -11,10 +11,10 @@
 
 PATH='/usr/bin:/bin:/usr/local/bin'
 export PYTHONIOENCODING=UTF-8
-echo $(date) | tee -a /opt/python-plexlibrary/plexlibrary.log
-echo "" | tee -a /opt/python-plexlibrary/plexlibrary.log
+echo $(date) | tee -a /opt/appdata/python-plexlibrary/plexlibrary.log
+echo "" | tee -a /opt/appdata/python-plexlibrary/plexlibrary.log
 
-for file in /opt/python-plexlibrary/recipes/*
+for file in /opt/appdata/python-plexlibrary/recipes/*
 do
     if [ ! -d "${file}" ]; then
         /usr/bin/python /opt/appdata/python-plexlibrary/plexlibrary/plexlibrary.py $(basename "$file" .yml) | tee -a /opt/appdata/python-plexlibrary/plexlibrary.log
