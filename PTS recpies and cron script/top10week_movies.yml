@@ -15,7 +15,7 @@ source_libraries:
       - '/mnt/unionfs/movies'
 # New library details
 new_library:
-  name: 'Movies - Top 10 of the Weekk'
+  name: 'Movies - Top 10 of the Week'
   # [Cloudbox] 'folder' = Path on host where symlinks are stored (i.e. 
   # '/mnt/local/Media/...').
   folder: '/mnt/recipes/movies/top10/'
