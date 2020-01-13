@@ -139,8 +139,11 @@ https://trakt.tv/users/porkie16/lists/arnold-schwarzenegger-movies
 - Angelina Jolie Movies
 https://trakt.tv/users/porkie16/lists/angelina-jolie
 
-- George Lucas
+- George Lucas Movies
 https://trakt.tv/users/porkie16/lists/george-lucas-movies
+
+- Quentin Tarantino Movies
+https://trakt.tv/users/porkie16/lists/quentin-tarantino-movies
 
 ## Custom Python Plexlibrary Recipes
 
