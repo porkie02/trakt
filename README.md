@@ -131,6 +131,14 @@ https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show
 - Amazon/Netflix/Hulu/Disney+/AppleTv+ Combined 65+ rating
 https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show-combined-65-rating
 
+## Actors and Directors no ratings applied
+
+- Arnold Schwarzenegger Movies
+https://trakt.tv/users/porkie16/lists/arnold-schwarzenegger-movies
+
+- Angelina Jolie Movies
+https://trakt.tv/users/porkie16/lists/angelina-jolie
+
 ## Custom Python Plexlibrary Recipes
 
 I have added my current recipes I have made for Custom Python Plexlibrary Recipes for some of my lists.
