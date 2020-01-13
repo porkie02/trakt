@@ -139,6 +139,9 @@ https://trakt.tv/users/porkie16/lists/arnold-schwarzenegger-movies
 - Angelina Jolie Movies
 https://trakt.tv/users/porkie16/lists/angelina-jolie
 
+- George Lucas
+https://trakt.tv/users/porkie16/lists/george-lucas-movies
+
 ## Custom Python Plexlibrary Recipes
 
 I have added my current recipes I have made for Custom Python Plexlibrary Recipes for some of my lists.
