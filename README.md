@@ -136,19 +136,19 @@ https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show
 
 ## Actors and Directors no ratings applied
 
-- Arnold Schwarzenegger Movies
+- Arnold Schwarzenegger
 https://trakt.tv/users/porkie16/lists/arnold-schwarzenegger-movies
 
-- Angelina Jolie Movies
+- Angelina Jolie
 https://trakt.tv/users/porkie16/lists/angelina-jolie
 
-- George Lucas Movies
+- George Lucas
 https://trakt.tv/users/porkie16/lists/george-lucas-movies
 
-- Quentin Tarantino Movies
+- Quentin Tarantino
 https://trakt.tv/users/porkie16/lists/quentin-tarantino-movies
 
-- Steven Spielberg Movies
+- Steven Spielberg
 https://trakt.tv/users/porkie16/lists/steven-spielberg-movies
 
 - Anthony Hopkins
