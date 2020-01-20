@@ -134,32 +134,6 @@ https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show
 - Amazon/Netflix/Hulu/Disney+/AppleTv+ Combined 65+ rating
 https://trakt.tv/users/porkie16/lists/amazon-netflix-hulu-disney-appletv-tv-show-combined-65-rating
 
-## Actors and Directors no ratings applied
-
-- Arnold Schwarzenegger
-https://trakt.tv/users/porkie16/lists/arnold-schwarzenegger-movies
-
-- Angelina Jolie
-https://trakt.tv/users/porkie16/lists/angelina-jolie
-
-- George Lucas
-https://trakt.tv/users/porkie16/lists/george-lucas-movies
-
-- Quentin Tarantino
-https://trakt.tv/users/porkie16/lists/quentin-tarantino-movies
-
-- Steven Spielberg
-https://trakt.tv/users/porkie16/lists/steven-spielberg-movies
-
-- Anthony Hopkins
-https://trakt.tv/users/porkie16/lists/anthony-hopkins-movies?sort=rank,asc
-
-- Jason Statham
-https://trakt.tv/users/porkie16/lists/jason-statham?sort=rank,asc
-
-- Robert Downey Jr
-https://trakt.tv/users/porkie16/lists/robert-downey-jr-movies
-
 ## Custom Python Plexlibrary Recipes
 
 I have added my current recipes I have made for Custom Python Plexlibrary Recipes for some of my lists.
